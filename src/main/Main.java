@@ -49,6 +49,7 @@ public class Main {
                     }
                 }
                 System.out.println(count);
+
             } else if(y1 == y2) {
                 if(x1 < x2) {
                     for(int j = x1; j <=x2; j++) {
